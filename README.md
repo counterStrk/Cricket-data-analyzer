@@ -1,4 +1,4 @@
-# Cricket Data Analytics Project 
+# Cricket Data Analytics 
 <h4>
   Crafted an extensive Cricket Data Analytics Project from scratch, showcasing prowess in Python and Pandas for robust data processing.
 </h4>
